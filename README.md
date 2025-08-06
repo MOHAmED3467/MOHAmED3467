@@ -4,7 +4,7 @@
 <p align="left">🔭 I’m currently working on <strong>IoT, Arduino, and Flutter Mobile Apps</strong></p>
 <p align="left">🌱 I’m currently learning <strong>Embedded C, RTOS, System Design, and Full-Stack Web Development</strong></p>
 <p align="left">👯 I’m looking to collaborate on <strong>open-source robotics, mobile, and web projects</strong></p>
-<p align="left">📫 How to reach me: <strong>20220636@nctu.edu</strong></p>
+<p align="left">📫 How to reach me: <strong>20220636@nctu.edu.eg</strong></p>
 
 ---
 
@@ -42,7 +42,7 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="mailto:20220636@nctu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:20220636@nctu.edu.eg"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mohamed-ehab-sayed-mahmoud-ict-587322345/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MOHAmED3467" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
