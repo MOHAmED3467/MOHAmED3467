@@ -46,7 +46,17 @@
   <a href="https://www.linkedin.com/in/mohamed-ehab-sayed-mahmoud-ict-587322345/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MOHAmED3467" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
+---
+<h2 align="center">📊 GitHub Stats</h2>
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fatmahadad&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmahadad&theme=react&hide_border=true&border=61dafb" />
+</p>
 
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmahadad&layout=compact&theme=react&hide_border=true&border_color=61dafb" />
+</p>
 ---
 
 ### 📌 Projects I'm proud of:
